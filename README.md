@@ -1,7 +1,7 @@
-# ITBDAA-14 Project 2 — Big Data Analytics Techniques
+# Big Data Analytics Techniques (ITBDA4-14) Project 2
 
 **Student:** Mitchley  
-**Module:** ITBDAA-14  
+**Module:** ITBDA4-14  
 **Institution:** Eduvos
 
 ## Overview
@@ -26,3 +26,4 @@ This repository contains the complete solution for Project 2 of ITBDAA-14, demon
 - Q2, Q3, and Q4 are written in R and require the relevant packages.
 - Q4 requires a running PostgreSQL instance with the database `books_etl_db`.
 - Detailed explanations, screenshots, and results are provided in the project report.
+
