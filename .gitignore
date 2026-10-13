@@ -1,0 +1,19 @@
+# Compiled Java
+*.class
+
+# R cache
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs
+*.log
+logs/
+userlogs/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Keep the jar (needed as Q1 evidence)
+!question1.jar
