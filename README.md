@@ -1,6 +1,6 @@
 # Big Data Analytics Techniques (ITBDA4-14) Project 2
 
-**Student:** Mitchley  
+**Student:** Mitchley Tapiwa Dinner
 **Module:** ITBDA4-14  
 **Institution:** Eduvos
 
